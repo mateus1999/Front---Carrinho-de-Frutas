@@ -4,7 +4,7 @@ Projeto em Desensolvimento
 - Splash %
 - Navigation
 - Tab navigation %
-- Validação de Input 
+- Validação de Input no cadastro de login
 - Lista de Favoritos %
 - Login com conta %
 - Busca %
